@@ -19,7 +19,7 @@ for a in ang:
     seno.append(sin(radians(a)))
     cosseno.append(cos(radians(a)))
     
-print seno    
+#print seno    
 
 plot (ang, seno)
 plot (ang, cosseno)
